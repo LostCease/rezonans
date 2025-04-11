@@ -1,3 +1,3 @@
 git add .
-git commit -m "Добавил gitignore"
+git commit -m "Изменил gitignore"
 git push origin master
